@@ -12,7 +12,8 @@
 
 ## UD5
 - [Actividad5.1](https://github.com/dudwcs/A5.1-sol.git)
-- [Actividad 5.2 Ej. 1](https://github.com/dudwcs/Actividad-5.2-Ejercicio1-.git)
+- [Actividad 5.2 enunciado](https://github.com/dudwcs/UD5_Ejemplo_Contador_Visitas_Cookies.git)
+- [Actividad 5.2 Ej. 1-Sol](https://github.com/dudwcs/Actividad-5.2-Ejercicio1-Sol.git)
 
 ## Pruebas de 1ª Evaluación
 - [Prueba UD3-Sol](https://github.com/dudwcs/Prueba-UD3-Sol)
