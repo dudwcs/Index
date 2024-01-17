@@ -15,6 +15,7 @@
 - [Actividad 5.2 enunciado](https://github.com/dudwcs/UD5_Ejemplo_Contador_Visitas_Cookies.git)
 - [Actividad 5.2 Ej. 1-Sol](https://github.com/dudwcs/Actividad-5.2-Ejercicio1-Sol.git)
 - [Actividad 5.2 Ej. 2 y 3-Sol](https://github.com/dudwcs/Actividad-5.2-Ejercicios2-y-3--Sol.git)
+- [Ejemplo básico de uso de sesiones](https://github.com/dudwcs/UD5_Ejemplo_Basico_Sesiones.git)
 
 ## Pruebas de 1ª Evaluación
 - [Prueba UD3-Sol](https://github.com/dudwcs/Prueba-UD3-Sol)
