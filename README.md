@@ -17,6 +17,7 @@
 - [Actividad 5.2 Ej. 2 y 3-Sol](https://github.com/dudwcs/Actividad-5.2-Ejercicios2-y-3--Sol.git)
 - [Ejemplo básico de uso de sesiones](https://github.com/dudwcs/UD5_Ejemplo_Basico_Sesiones.git)
 - [Actividad 5.3 sesiones y textos-Sol](https://github.com/dudwcs/A5.3-sesiones-texto-array-Sol.git)
+- [Actividad 5.4-Sol](https://github.com/dudwcs/Actividad5.4-Sol.git)
 
 ## Pruebas de 1ª Evaluación
 - [Prueba UD3-Sol](https://github.com/dudwcs/Prueba-UD3-Sol)
