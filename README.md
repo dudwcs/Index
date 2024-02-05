@@ -19,6 +19,10 @@
 - [Actividad 5.3 sesiones y textos-Sol](https://github.com/dudwcs/A5.3-sesiones-texto-array-Sol.git)
 - [Actividad 5.4-Sol](https://github.com/dudwcs/Actividad5.4-Sol.git)
 
+## UD6
+- [Actividad 6.1 People Codewars](https://www.edu.xunta.gal/centros/iesteis/aulavirtual/pluginfile.php/173195/mod_page/content/10/Person.php)
+- [Actividad 6.3-Ejemplo básico herencia Figuras enunciado](https://github.com/dudwcs/Actividad6.3-Ejemplo_basico_herencia-enunciado.git)
+
 ## Pruebas de 1ª Evaluación
 - [Prueba UD3-Sol](https://github.com/dudwcs/Prueba-UD3-Sol)
 - [Prueba UD4-Sol Crear producto](https://github.com/dudwcs/PruebaUD4-sol)
