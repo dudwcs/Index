@@ -22,6 +22,7 @@
 ## UD6
 - [Actividad 6.1 People Codewars](https://www.edu.xunta.gal/centros/iesteis/aulavirtual/pluginfile.php/173195/mod_page/content/10/Person.php)
 - [Actividad 6.3-Ejemplo básico herencia Figuras enunciado](https://github.com/dudwcs/Actividad6.3-Ejemplo_basico_herencia-enunciado.git)
+- [Actividad 6.3-Ejemplo básico herencia Figuras Sol](https://github.com/dudwcs/Ejemplo_basico_herencia_figura-sol.git)
 
 ## Pruebas de 1ª Evaluación
 - [Prueba UD3-Sol](https://github.com/dudwcs/Prueba-UD3-Sol)
