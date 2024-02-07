@@ -24,6 +24,7 @@
 - [Actividad 6.2-Sol Academia Baile con POO simple](https://github.com/dudwcs/Actividad6.2-Academia-Sol.git)
 - [Actividad 6.3-Ejemplo básico herencia Figuras enunciado](https://github.com/dudwcs/Actividad6.3-Ejemplo_basico_herencia-enunciado.git)
 - [Actividad 6.3-Ejemplo básico herencia Figuras Sol](https://github.com/dudwcs/Ejemplo_basico_herencia_figura-sol.git)
+- [Actividad 6.4-ns-baile-sol](https://github.com/dudwcs/Actividad6.4-ns-baile-sol.git)
 
 
 ## Pruebas de 1ª Evaluación
