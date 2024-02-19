@@ -25,6 +25,7 @@
 - [Actividad 6.3-Ejemplo básico herencia Figuras enunciado](https://github.com/dudwcs/Actividad6.3-Ejemplo_basico_herencia-enunciado.git)
 - [Actividad 6.3-Ejemplo básico herencia Figuras Sol](https://github.com/dudwcs/Ejemplo_basico_herencia_figura-sol.git)
 - [Actividad 6.4-ns-baile-sol](https://github.com/dudwcs/Actividad6.4-ns-baile-sol.git)
+- [Actividad 6.6-abstract-sol](https://github.com/dudwcs/Actividad6.6-sol.git)
 
 
 ## Pruebas de 1ª Evaluación
