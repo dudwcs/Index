@@ -28,6 +28,10 @@
 - [Actividad 6.5-jsonserialize](https://github.com/dudwcs/Actividad-6.5-jsonserialize.git)
 - [Actividad 6.6-abstract-sol](https://github.com/dudwcs/Actividad6.6-sol.git)
 
+## UD7
+- [Actividad 7.1-Sol](https://github.com/dudwcs/A7.1-sol.git)
+- 
+
 
 ## Pruebas de 1ª Evaluación
 - [Prueba UD3-Sol](https://github.com/dudwcs/Prueba-UD3-Sol)
