@@ -28,6 +28,7 @@
 - [Actividad 6.4-ns-baile-sol](https://github.com/dudwcs/Actividad6.4-ns-baile-sol.git)
 - [Actividad 6.5-jsonserialize](https://github.com/dudwcs/Actividad-6.5-jsonserialize.git)
 - [Actividad 6.6-abstract-sol](https://github.com/dudwcs/Actividad6.6-sol.git)
+- [Tarea06.1-Sol](https://github.com/dudwcs/Tarea06.1-sol)
 
 ## UD7
 - [Actividad 7.1-Sol](https://github.com/dudwcs/A7.1-sol.git)
