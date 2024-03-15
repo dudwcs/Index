@@ -32,7 +32,7 @@
 
 ## UD7
 - [Actividad 7.1-Sol](https://github.com/dudwcs/A7.1-sol.git)
-- 
+- [Tarea07.1-sol](https://github.com/dudwcs/Tarea07.1-Sol)
 
 
 ## Pruebas de 1ª Evaluación
