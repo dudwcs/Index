@@ -40,6 +40,11 @@
 - [Prueba UD4-Sol Crear producto](https://github.com/dudwcs/PruebaUD4-sol)
 - [Prueba UD4-Sol MongoDB](https://github.com/dudwcs/PruebaUD4-MongoDB-sol.git)
 
+## Pruebas de 2ª Evaluación
+- [Prueba UD5-Sol Cesta de la compra](https://github.com/dudwcs/Prueba-pr-ctica-UD5-sol.git)
+- [Prueba UD6-Sol Producto MVC](https://github.com/dudwcs/Prueba-practica-UD6-sol.git)
+- [Prueba UD7-Sol Api Fetch](https://github.com/dudwcs/Prueba-practica-UD7-sol.git)
+
  
   
 
