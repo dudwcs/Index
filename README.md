@@ -38,6 +38,7 @@
 
 ## UD8
 - [Actividad8.1-sol](https://github.com/dudwcs/Actividad8.1-sol.git)
+- [Actividad8.2-sol](https://github.com/dudwcs/Actividad-8.2-Sol.git)
 
 
 ## Pruebas de 1ª Evaluación
