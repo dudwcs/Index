@@ -43,6 +43,7 @@
 - [Ejemplo de validación Nota](https://github.com/dudwcs/EjemploValidacionNota.git)
 - [Ejemplo libros con entidades sin relaciones](https://github.com/dudwcs/Ejemplo_libros.git)
 - [Ejemplo libros con relaciones](https://github.com/dudwcs/Ejemplo_Libros_ConRelaciones.git)
+- [Ejemplo libros con consultas](https://github.com/dudwcs/Consultas_Libros_aula.git)
 
 
 ## Pruebas de 1ª Evaluación
